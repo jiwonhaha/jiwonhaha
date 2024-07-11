@@ -14,11 +14,10 @@ I'm a passionate researcher and developer specializing in machine learning and c
 
 ## 🛠️ Skills
 - **Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, React
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Numpy, OpenCV, React
 - **Tools:** Git, Docker, Jupyter
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiwonhaha&show_icons=true&theme=radical)
+## 📈 GitHub Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonhaha&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
