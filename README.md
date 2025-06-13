@@ -4,7 +4,7 @@
 I'm a passionate researcher and developer specializing in machine learning and computer vision. I love working with cutting-edge technologies and solving complex problems to make impactful contributions to the field.
 
 ## 🔭 Projects
-- **[Gaussian Editing]**: 2D Gaussian Splatting editing using mesh deformation. *(Coming Soon)*
+- **[Gausscraft](https://jiwonhaha.github.io/gausscraft/)**: 2D Gaussian Splatting editing using mesh deformation. *(Inspired by 2DGS and Gaussian Avartar)*
 - **[METR](https://github.com/jiwonhaha/METR)**: Non-Human Primates Pose Estimation with Transformer. This project involves using advanced transformer models to accurately estimate poses of non-human primates, contributing to the field of animal behavior analysis.
 - **[Passport Control Simulator](https://github.com/jiwonhaha/Passport-control-simulator)**: Developed a virtual reality passport control system using Oculus Quest 2 to train new employees. Utilized Unity and C# for simulation development.
 
