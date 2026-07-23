@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I'm a researcher and developer focused on **3D computer vision and graphics** — Gaussian Splatting, neural rendering, and pose estimation. I enjoy turning cutting-edge research into working systems and writing about the papers that shape the field.
+I'm a Engineer and developer focused on **3D computer vision and graphics** — Gaussian Splatting, neural rendering, and pose estimation. I enjoy turning cutting-edge research into working systems and writing about the papers that shape the field.
 
 - 🎓 **MSc Machine Learning**, University College London (UCL) — *Distinction*
 - 🎓 **BSc Computer Science**, University of Birmingham — *First-Class Honours*
