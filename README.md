@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jiwon Park 👋</h1>
 
 <p align="center">
-  <b>Computer Vision & Graphics Researcher</b> · 3D Reconstruction · Gaussian Splatting · Neural Rendering
+  <b>Computer Vision & Graphics Engineer</b> · 3D Reconstruction · Gaussian Splatting · Neural Rendering
 </p>
 
 <p align="center">
