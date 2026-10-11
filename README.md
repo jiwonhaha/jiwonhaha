@@ -1,84 +1,86 @@
-<h1 align="center">Hi there, I'm Jiwon Park 👋</h1>
+<h1 align="center">Hi, I'm Jiwon Park 👋</h1>
 
 <p align="center">
-  <b>Machine Learning & Software Engineer</b><br/>
-  Applied ML · Generative AI · Full-Stack Software · Computer Vision
+  <b>Computer Vision · 3D Reconstruction · Software Development</b><br/>
+  MSc Computer Graphics, Vision and Imaging — UCL, Distinction
 </p>
 
 <p align="center">
-  <a href="https://jiwonhaha.github.io"><img src="https://img.shields.io/badge/Blog-jiwonhaha.github.io-FF5722?style=flat-square&logo=jekyll&logoColor=white" alt="Blog"/></a>
+  <a href="https://jiwonhaha.github.io"><img src="https://img.shields.io/badge/Website-jiwonhaha.github.io-FF5722?style=flat-square&logo=jekyll&logoColor=white" alt="Personal website"/></a>
   <a href="https://www.linkedin.com/in/jiwonhaha"><img src="https://img.shields.io/badge/LinkedIn-Jiwon%20Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jiwonpark0514@gmail.com"><img src="https://img.shields.io/badge/Email-jiwonpark0514@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jiwonpark0514@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+## About Me
 
-## 🚀 About Me
-I'm an engineer who builds across the stack — from **training ML models** to **shipping the software around them**. I like taking research-grade ideas and turning them into things that actually run: model pipelines, applications, and interactive tools.
+I studied computer science at undergraduate level and completed an MSc in Computer Graphics, Vision and Imaging at UCL with Distinction.
 
-- 💻 Comfortable across **ML/AI engineering**, **backend/full-stack software**, and **applied computer vision**
-- 🤖 Hands-on with **deep learning, generative models, and transformers** in PyTorch & TensorFlow
-- ✍️ I break down state-of-the-art ML papers on my blog → [Link](https://jiwonhaha.github.io/jtech-blog/)
-- 🌏 Open to **ML Engineer, Software Engineer, and Data & AI** roles
+My research has focused on **2D pose estimation** and **3D reconstruction and editing**. I enjoy reading research papers, working through their implementations, and adapting methods to new datasets and tasks. My projects also include web development and VR applications.
 
----
+I'm looking for opportunities in **AI, computer vision, and software development**.
 
-## 🔭 Featured Projects
-- **[GaussCraft](https://jiwonhaha.github.io/gausscraft/)** — Generative 3D editing tool: edits Gaussian-Splatting scenes through mesh deformation. *(PyTorch, graphics)*
-- **[METR](https://github.com/jiwonhaha/METR)** — Transformer-based pose-estimation model for non-human primates, applied to animal behavior analysis. *(Deep learning, CV)*
-- **[Passport Control Simulator](https://github.com/jiwonhaha/Passport-control-simulator)** — VR training system for passport control on Oculus Quest 2. *(Unity, C#, full-stack app design)*
+## Featured Projects
 
----
+### [GaussCraft](https://jiwonhaha.github.io/gausscraft/)
+**Mesh-based editing with 2D Gaussian Splatting**
 
-## 🛠️ Tech Stack
+My master's research explored how a 3D editing approach designed for human heads could be extended to general objects using reconstructed meshes.
+
+- Combined surface reconstruction with mesh-bound Gaussian representations.
+- Implemented coordinate transformations and updates to Gaussian position, rotation, and scale during mesh deformation.
+- Evaluated rendering quality and investigated reconstruction and editing limitations.
+
+**Tools:** Python · PyTorch · 2D Gaussian Splatting
+
+### [METR](https://github.com/jiwonhaha/METR)
+**Transformer-based pose estimation for non-human primates**
+
+My undergraduate research applied a human-pose-pretrained PETR model to non-human primate pose estimation.
+
+- Adapted dataset annotations and applied transfer learning and data augmentation.
+- Achieved **80.7 mAP** on the Open Monkey Challenge test set.
+- Analysed body-part-level performance and proposed improvements for weaker predictions.
+
+**Tools:** Python · PyTorch · Transformers
+
+### [Passport Control Simulator](https://github.com/jiwonhaha/Passport-control-simulator)
+**VR passport-control training simulation**
+
+A VR project for Oculus Quest 2 that simulates passport-control tasks in an interactive environment.
+
+**Tools:** Unity · C# · Oculus Quest 2
+
+## Technical Skills
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
 
-**ML / Data**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
+Python · Java · C++ · C# · JavaScript · SQL
 
-**Software & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-</p>
+**Machine Learning & Data**
+
+PyTorch · TensorFlow · NumPy · pandas · OpenCV
+
+**Applications & Tools**
+
+React · Unity · Git · Docker · AWS
+
+## Research Notes & Writing
+
+I write about machine learning papers and technical topics, explaining the methods and ideas behind them.
+
+- [Technical blog](https://jiwonhaha.github.io/jtech-blog/)
+- [Personal website — projects, reports, and research](https://jiwonhaha.github.io/)
+
+## Current Interests
+
+- Computer vision and pose estimation
+- 3D reconstruction, Gaussian Splatting, and geometry
+- Applying machine learning to practical problems
+- Developing web applications and interactive tools
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiwonhaha&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonhaha&layout=compact&theme=radical&hide_border=true"/>
+  Open to opportunities and collaboration.<br/>
+  <a href="mailto:jiwonpark0514@gmail.com">Get in touch</a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonhaha&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🌱 What I'm Into
-- Building and fine-tuning **ML models** (deep learning, generative AI, computer vision)
-- Writing clean, production-minded **software** — from backend services to interactive apps
-- Reading and reviewing **new ML research** and sharing it on my blog
-
----
-
-<p align="center"><i>Always open to interesting problems and collaboration — feel free to reach out! 🚀</i></p>
